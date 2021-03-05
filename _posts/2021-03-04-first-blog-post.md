@@ -1,6 +1,6 @@
 ---
-layout: post
 title: "New Blog Post test"
+date: 2021-03-04
 ---
 
 # Bem Vindo
